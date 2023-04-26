@@ -18,9 +18,10 @@ const Home = () => {
 		 <Jumbo/>
 		 
 		 <div className="tarjet">
-		 	<Tarjeta title="Articulo1" text="Descripcion del artiiculo 1" im={hh}/>
-		 	<Tarjeta title="Articulo1" text="Descripcion del artiiculo 1" im={aa}/>
-			<Tarjeta title="Articulo1" text="Descripcion del articulo 1" im={dd}/>	
+		 	<Tarjeta title="Articulo1" text="Esta es una breve descripcion del articulo que se agrega en la carta " im={hh}/>
+		 	<Tarjeta title="Articulo1" text="Esta es una breve descripcion del articulo que se agrega en la carta " im={aa}/>
+			<Tarjeta title="Articulo1" text="Esta es una breve descripcion del articulo que se agrega en la carta " im={dd}/>	
+			<Tarjeta title="Articulo1" text="Esta es una breve descripcion del articulo que se agrega en la carta " im={hh}/>
 		 </div>
 		
 		</>
