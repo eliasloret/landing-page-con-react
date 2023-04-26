@@ -1,0 +1,11 @@
+.tarjet{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+.altu{
+    
+    height: 300px;
+}
